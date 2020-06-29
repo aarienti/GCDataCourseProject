@@ -1,1 +1,2 @@
-
+## CodeBook
+This code book describes the variables of the data set, and all transformations performed to clean up the data in `tidyData.txt`
