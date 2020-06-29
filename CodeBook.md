@@ -23,6 +23,7 @@ Activity: the Name of the Activity performed by the subject when measurements we
 
 ## Features
 The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ.
+
 1 tBodyAcc-mean()-X
 2 tBodyAcc-mean()-Y
 3 tBodyAcc-mean()-Z
@@ -584,4 +585,5 @@ The features selected for this database come from the accelerometer and gyroscop
 559 angle(X,gravityMean)
 560 angle(Y,gravityMean)
 561 angle(Z,gravityMean)
+
 
