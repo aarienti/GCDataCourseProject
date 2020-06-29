@@ -1,7 +1,7 @@
 # GCDataCourseProject
 
 This is the Course Project for the Geting and Cleaning Data course from John Hopkins University on Coursera.
-The repository incudes this README.md, a script run_Analysis.R, and a CodeBook.
+The repository incudes this `README.md`, a script `run_Analysis.R`, and a `CodeBook`.
 The R script does the following:
 
 1. Merges the training and the test sets to create one data set.
